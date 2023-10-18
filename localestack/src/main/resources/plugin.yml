@@ -1,0 +1,7 @@
+name: localestack
+version: '${project.version}'
+main: de.lukasdev.localestack.Localestack
+api-version: '1.20'
+commands:
+  log:
+    description: []
